@@ -23,10 +23,5 @@
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:local="using:DigitalSignageUAP">
-    <Application.Resources>
-        <x:String x:Key="ida:ClientId">07073d40-4793-4fc3-9ce7-d84a4626bec2</x:String>
-        <x:String x:Key="ida:AADInstance">https://login.microsoftonline.com/</x:String>
-        <x:String x:Key="ida:Domain">deploybyod.onmicrosoft.com</x:String>
-    </Application.Resources>
 
 </Application>
